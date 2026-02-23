@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore dataset
+DATASET/
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore model checkpoints if large
+*.h5
+*.pkl
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
