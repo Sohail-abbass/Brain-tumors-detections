@@ -49,7 +49,7 @@
     
 
     # firebase_auth.py (in project root)
-import streamlit as st
+import app as st
 import pyrebase
 from firebase_config import FIREBASE_CONFIG
 

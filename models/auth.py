@@ -1,4 +1,4 @@
-import streamlit as st
+import app as st
 from firebase_auth import login_user, register_user
 
 def show_login_page():

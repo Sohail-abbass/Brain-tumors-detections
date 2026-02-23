@@ -1,5 +1,5 @@
 # models/streamlit.py - COMPLETELY FIXED VERSION
-import streamlit as st
+import app as st
 import numpy as np
 import cv2
 import joblib
